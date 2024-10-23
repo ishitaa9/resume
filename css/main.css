@@ -104,6 +104,9 @@ footer a:not(.nav-link) {
   border-bottom: 1px dashed;
   text-decoration: none;
   cursor: pointer; }
+a {
+  text-decoration: none;
+}
 
 @media (min-width: 48em) {
   .site-title {
@@ -247,4 +250,5 @@ footer a:not(.nav-link) {
     .container .list .num:hover h4 {
       left: 1rem;
     }
+
     
