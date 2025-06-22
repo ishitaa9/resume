@@ -1,6 +1,9 @@
 /* Buttons */
 /* Inputs */
 /* Timeline custom component */
+a {
+  text-decoration: none;
+}
 .timeline {
   border-left: 2px solid #E6E9ED;
   padding: 1rem 0; }
@@ -248,4 +251,4 @@ footer a:not(.nav-link) {
       left: 1rem;
     }
 
-    
+
